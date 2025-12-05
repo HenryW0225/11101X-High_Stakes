@@ -1,5 +1,5 @@
 #include "main.h"
-#include "algorithm"
+//#include "algorithm"
 using namespace std;
 
 Scoring_Mech::Scoring_Mech(std::initializer_list<std::int8_t> neutral_stake_mtr_grp, int8_t neutral_stake_rot_grp, int8_t intake_mtr_grp, int8_t intake_color_sensor_grp) 
@@ -12,8 +12,6 @@ Scoring_Mech::Scoring_Mech(std::initializer_list<std::int8_t> neutral_stake_mtr_
 void Scoring_Mech::initialize() {
     //neutral_stake_rot.set_position(36000);
     neutral_stake_rot.set_position(33000);
-
-
 
     neutral_stake_mtr.move_velocity(0);
     neutral_stake_rot.set_data_rate(5);

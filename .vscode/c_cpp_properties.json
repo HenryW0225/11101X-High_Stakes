@@ -5,7 +5,8 @@
       "includePath": [
         "${workspaceFolder}/**",
         "/Users/pathu/Downloads/HighStakes-2024/include",
-        "/Users/henryw/Documents/GitHub/HighStakes/HighStakes-2024/include"
+        "/Users/henryw/Documents/GitHub/HighStakes/HighStakes-2024/include",
+        "/Users/henryw/Library/CloudStorage/GoogleDrive-hw363929@gmail.com/My Drive/Barcbots/11101X-High_Stakes/include"
       ],
       "defines": [
         "_DEBUG",
@@ -21,7 +22,7 @@
       ],
       "browse": {
         "path": [
-          "/Users/henryw/Documents/GitHub/HighStakes/HighStakes-2024"
+          "/Users/henryw/Library/CloudStorage/GoogleDrive-hw363929@gmail.com/My Drive/Barcbots/11101X-High_Stakes"
         ],
         "limitSymbolsToIncludedHeaders": true,
         "databaseFilename": ""
